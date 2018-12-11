@@ -1,3 +1,4 @@
+# This file was just used to test the pipeline with 1 image
 import cv2
 import helpers
 import numpy as np
